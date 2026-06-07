@@ -61,3 +61,6 @@ tr:nth-child(odd) {
 th:hover {
     background-color: #0056b3;
 }
+td:hover{
+  background-color:lightblue 
+}
