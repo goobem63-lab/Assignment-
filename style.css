@@ -55,3 +55,10 @@ tr:nth-child(odd) {
 .btn-delete {
   background-color: #dc3545;
 }
+tr:hover {
+    background-color: #d1ecf1; !important
+    cursor: pointer;
+}
+th:hover {
+    background-color: #0056b3;
+}
